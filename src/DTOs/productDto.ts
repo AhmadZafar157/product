@@ -1,0 +1,5 @@
+export class productDto {
+    name : string;
+    price : number;
+    description : string;
+};
